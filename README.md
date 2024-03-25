@@ -26,3 +26,11 @@ To run this project and observe the deep link navigation behavior:
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
 4. Test deep links to different screens and observe the navigation behavior.
+
+## Video Sample
+
+
+https://github.com/sanathsajeevakumara/BranchLinkSimulatorAndroidSanath/assets/11756630/29d5fee8-1a7e-4b27-a654-e2ddcbcdb6a5
+
+
+
